@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there. 
+
+I am currently working on:
+<a href="https://github.com/leetahsun/solarSounds.git">Solar sounds</a>
 
 <!--
 **leetahsun/leetahsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
