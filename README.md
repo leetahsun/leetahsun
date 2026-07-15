@@ -1,7 +1,7 @@
 ## Hi there. 
 
 I am currently working on:
-<a href="https://github.com/leetahsun/electricitymarketreport.git">Solar sounds</a>
+<a href="https://github.com/leetahsun/electricitymarketreport.git">KPI Reporting for Electricity Markets</a>
 
 <!--
 **leetahsun/leetahsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
