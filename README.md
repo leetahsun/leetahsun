@@ -25,7 +25,7 @@ Developed two complementary forecasting systems. The first one is a XGBoost mode
 - [GitHub Repository](https://github.com/leetahsun/energy-forecasting)
 ## Contact
 
-- 📧 **Email**: <a href="mailto:name@example.com">Send Email</a>
+- 📧 **Email**: <a href="mailto:leetahsun@gmail.com">Send Email</a>
 ## **My Skills**
 <p align="center">
   <a href="https://skillicons.dev">
