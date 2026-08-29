@@ -23,6 +23,12 @@ Developed two complementary forecasting systems. The first one is a XGBoost mode
 
 - **Stack:** Python, XGBoost, Pandas, Scikit-Learn, Git
 - [GitHub Repository](https://github.com/leetahsun/energy-forecasting)
+
+### [Solar Measurement QC](https://github.com/leetahsun/solarQC/blob/main/main.ipynb) 
+Quality control pipeline for solar irradiance measurements (GHI, DHI, DNI) from ground station NetCDF data, using xarray and pvlib for QC flagging and clear-sky comparison. 
+
+- **Stack:** Python, Pvlib, Pandas
+- [Github Repository](https://github.com/leetahsub/SolarQC)
 ## Contact
 
 - 📧 **Email**: <a href="mailto:leetahsun@gmail.com">Send Email</a>
