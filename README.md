@@ -11,18 +11,17 @@ I am currently working on:
 
 ## Projects
 
+### [Energy Forecasting: ML & Physical Models for the German Power Grid](https://leetahsun.github.io/energy-forecasting/)
+Developed two complementary forecasting systems. The first one is a XGBoost model predicting day-ahead price and renewable generation share against a naive baseline and then a solar generation forecaster comparing a physical clear-sky irradiance model against a weather-driven ML model where both of them are retrained on a schedule and published to a live dashboard.
+
+- **Stack:** Python, XGBoost, Pandas, Scikit-Learn, Git
+- [GitHub Repository](https://github.com/leetahsun/energy-forecasting)
 
 ### [German Electricity Market KPI Reporting Pipeline](https://leetahsun.github.io/electricitymarketreport/)
 Built a scheduled reporting pipeline that pulls live German electricity market data from a public grid-operator API, computes structured KPIs (renewable generation share, day-ahead price volatility), and publishes an automated Plotly dashboard via GitHub Pages.
 
 - **Stack:** Python, Pandas, Plotly, Git
 - [GitHub Repository](https://github.com/leetahsun/electricitymarketreport)
-
-### [Energy Forecasting: ML & Physical Models for the German Power Grid](https://leetahsun.github.io/energy-forecasting/)
-Developed two complementary forecasting systems. The first one is a XGBoost model predicting day-ahead price and renewable generation share against a naive baseline and then a solar generation forecaster comparing a physical clear-sky irradiance model against a weather-driven ML model where both of them are retrained on a schedule and published to a live dashboard.
-
-- **Stack:** Python, XGBoost, Pandas, Scikit-Learn, Git
-- [GitHub Repository](https://github.com/leetahsun/energy-forecasting)
 
 ### [Solar Measurement QC](https://github.com/leetahsun/solarQC/blob/main/main.ipynb) 
 Quality control pipeline for solar irradiance measurements (GHI, DHI, DNI) from ground station NetCDF data, using xarray and pvlib for QC flagging and clear-sky comparison. 
