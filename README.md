@@ -3,7 +3,6 @@
 
 <div align ="center">
 <p>I have a background in renewable energy and physics. </p>
-<p>I really enjoy data validation work, QC processses and model evaulation.</p>
 </div>
 
 I am currently working on:
