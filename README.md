@@ -5,8 +5,6 @@
 <p>I have a background in renewable energy and physics. </p>
 </div>
 
-I am currently working on:
-<a href="https://github.com/leetahsun/electricitymarketreport.git">KPI Reporting for Electricity Markets</a>
 
 ## Projects
 
